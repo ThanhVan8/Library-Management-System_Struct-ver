@@ -1,0 +1,54 @@
+21A001
+Tran Thi Thanh Van
+000111222333
+26/08/2003
+Nu
+tv@mail.com
+Vuon Lai, Tan Phu
+08/12/2021
+08/12/2025
+21A002
+Tran Nguyen Duc
+012345678912
+10/07/2002
+Nam
+tnd@mail.com
+Vo Thanh Trang, Tan Binh
+16/12/2021
+16/12/2025
+21A003
+Nguyen Phuong Khanh
+009988776655
+13/04/2003
+Nu
+pk@mail.com
+Tran Van On, Tan Phu
+31/12/2021
+31/12/2025
+21A004
+Pham Van A
+123412341234
+22/04/2002
+Nam
+vd@mail.com
+Pham Van Hai, Tan Binh
+31/12/2021
+31/12/2025
+21A005
+Tran Thi Tuyet
+019283746512
+06/09/2002
+Nu
+t@mail.com
+CMT8, Tan Binh
+01/01/2022
+01/01/2026
+21A006
+Nguyen Bao Trang
+079341234516
+14/10/2003
+Nu
+nbt@mail.com
+Tan Son Nhi, Tan Phu
+02/01/2022
+02/01/2026

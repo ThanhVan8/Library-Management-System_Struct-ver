@@ -1,0 +1,64 @@
+AAA000
+C++
+ABC
+DEF
+2020
+KH-CN
+50000
+78
+AAA001
+Lap trinh
+ABC
+XYZ
+2021
+KH-CN
+77000
+150
+AAA002
+Nhap mon lap trinh
+TDT-NTP-DBT-TMT
+Khoa hoc va ky thuat
+2021
+Giao trinh
+84000
+135
+AAA003
+Mat biec
+Nguyen Nhat Anh
+Tre
+2020
+Truyen dai
+100000
+74
+AAA004
+Kinh te dai cuong
+CBA
+XYZ
+2018
+Kinh te
+150000
+100
+AAA005
+Phia Sau Nghi Can X
+Higashino Keigo
+Hoi nha van
+2019
+Trinh tham
+109000
+12
+AAA006
+Toan roi rac
+Pham A
+Moi
+2021
+Tham khao
+83000
+85
+AAA007
+Toan roi rac
+Nguyen A
+ABC BCA
+2021
+Giao trinh
+86000
+92
